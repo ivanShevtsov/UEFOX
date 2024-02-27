@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\FoxUnrealPart\\MyUnrealProject\\Source\\MyUnrealProject\\MyUnrealProject.Build.cs",
+		"F:\\FoxUnrealPart\\MyUnrealProject\\Source\\MyUnrealProject.Target.cs",
+		"F:\\FoxUnrealPart\\MyUnrealProject\\Source\\MyUnrealProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

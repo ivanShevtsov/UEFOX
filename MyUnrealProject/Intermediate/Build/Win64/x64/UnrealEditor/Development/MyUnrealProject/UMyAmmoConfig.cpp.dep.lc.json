@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\umyammoconfig.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\myunrealprojecteditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myunrealproject\\definitions.myunrealproject.h",
+            "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\umyammoconfig.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\iinputinterface.h",
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myunrealproject\\uht\\umyammoconfig.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

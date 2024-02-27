@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myunrealproject\\uht\\myunrealprojectgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\myunrealprojecteditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myunrealproject\\definitions.myunrealproject.h",
+            "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\myunrealprojectgamemodebase.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\info.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\info.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\playercontroller.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\playermutelist.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playermutelist.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\camera\\playercameramanager.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playercameramanager.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\forcefeedbackparameters.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\forcefeedbackparameters.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\iinputinterface.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\public\\physics\\asyncphysicsdata.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\asyncphysicsdata.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionstreamingsource.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\worldpartitionstreamingsource.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\inputcomponent.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\inputcomponent.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "c:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playercontroller.generated.h",
+            "c:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myunrealproject\\uht\\myunrealprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

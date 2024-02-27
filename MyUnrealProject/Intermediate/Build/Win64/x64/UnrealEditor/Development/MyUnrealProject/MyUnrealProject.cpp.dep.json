@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\myunrealproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\myunrealprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myunrealproject\\definitions.myunrealproject.h",
+            "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\myunrealproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

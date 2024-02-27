@@ -1,0 +1,6 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" MyUnrealProjectEditor Win64 DebugGame -Project="F:\FoxUnrealPart\MyUnrealProject\MyUnrealProject.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\IVAN\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for MyUnrealProjectEditor (MyUnrealProject.Build.cs modified)
+  Target is up to date
+  Total execution time: 4.03 seconds

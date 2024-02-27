@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\damage.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\myunrealprojecteditor\\debuggame\\unrealed\\sharedpch.unrealed.nonoptimized.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\myunrealproject\\definitions.myunrealproject.h",
+            "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\damage.h",
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myunrealproject\\uht\\damage.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

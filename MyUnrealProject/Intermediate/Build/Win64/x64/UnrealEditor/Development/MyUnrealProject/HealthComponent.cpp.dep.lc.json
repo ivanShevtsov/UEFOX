@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\healthcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\myunrealprojecteditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myunrealproject\\definitions.myunrealproject.h",
+            "f:\\foxunrealpart\\myunrealproject\\source\\myunrealproject\\healthcomponent.h",
+            "f:\\foxunrealpart\\myunrealproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myunrealproject\\uht\\healthcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
