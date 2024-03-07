@@ -7,7 +7,15 @@
 			"files": [
 				"F:/FoxUnrealPart/MyUnrealProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"F:/FoxUnrealPart/MyUnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"F:/FoxUnrealPart/MyUnrealProject/Content/TestLevel1.umap"
+				"F:/FoxUnrealPart/MyUnrealProject/Content/TestLevel1.umap",
+				"F:/FoxUnrealPart/MyUnrealProject/Content/__ExternalActors__/Untitled/0/6F/3CCPGJDAKYKUUVESPIPHNZ.uasset",
+				"F:/FoxUnrealPart/MyUnrealProject/Content/MyBlueprints/LevitateActor.uasset",
+				"F:/FoxUnrealPart/MyUnrealProject/Content/__ExternalActors__/Untitled/8/BG/E8H4PNH26A9WARAKRNDQ3L.uasset",
+				"F:/FoxUnrealPart/MyUnrealProject/Content/__ExternalActors__/Untitled/A/GG/08M52BXGHT56IFYGJ3HZDH.uasset",
+				"F:/FoxUnrealPart/MyUnrealProject/Content/__ExternalActors__/Untitled/3/WT/LB2LXT3FRVE80SETJ05N7X.uasset",
+				"E:/FoxUnrealPart/MyUnrealProject/Content/MyBlueprints/LevitateActor.uasset",
+				"E:/FoxUnrealPart/MyUnrealProject/Content/__ExternalActors__/Untitled/8/BG/E8H4PNH26A9WARAKRNDQ3L.uasset",
+				"E:/FoxUnrealPart/MyUnrealProject/Content/MyBlueprints/LevitateComponent.uasset"
 			]
 		}
 	]

@@ -283,10 +283,7 @@ F:\FoxUnrealPart\MyUnrealProject\Source\MyUnrealProject\GravityComponent.cpp
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"F:\FoxUnrealPart\MyUnrealProject\Intermediate\Build\Win64\x64\MyUnrealProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"F:\FoxUnrealPart\MyUnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyUnrealProject\Definitions.MyUnrealProject.h"
-/Yu"F:\FoxUnrealPart\MyUnrealProject\Intermediate\Build\Win64\x64\MyUnrealProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"F:\FoxUnrealPart\MyUnrealProject\Intermediate\Build\Win64\x64\MyUnrealProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/FI"F:\FoxUnrealPart\MyUnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyUnrealProject\Definitions.h"
 /Fo"F:\FoxUnrealPart\MyUnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyUnrealProject\GravityComponent.cpp.obj"
 /sourceDependencies F:\FoxUnrealPart\MyUnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MyUnrealProject\GravityComponent.cpp.dep.json
 /Zc:inline
